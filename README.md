@@ -4,6 +4,10 @@
 - Currently studying: 中文 （汉语）.
 - I'm also an introvert (nevermind).
 
+# 🎀MY BOT
+- Courloy [Invite Here](https://discord.com/oauth2/authorize?client_id=1334255474362679399)
+- Suyu [Invite Here](https://discord.com/oauth2/authorize?client_id=1340248306286071889)
+
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/users/865565502957027368) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/catbbilove) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@stalenthsee) 
 
